@@ -1,0 +1,145 @@
+.category {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #9A9A9A;
+}
+
+.passage {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+div {
+    display: block;
+}
+
+.about-body {
+    color: #2c2c2c;
+    font-size: 14px;
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.cc-experience .cc-experience-header {
+    padding-top: 60px;
+    padding-right: 0;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.cc-education .cc-education-header {
+    padding-top: 60px;
+    padding-right: 0;
+    text-align: center;
+    color: #fff;
+}
+
+.title {
+    font-weight: 700;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+    {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.section {
+    padding: 70px 0;
+    position: relative;
+    background: #fff;
+}
+
+.card-about {
+    border: 0;
+    border-radius: .1875rem;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+}
+
+main {
+    min-height: 100%;
+}
+
+.not-found {
+    font-size: 250px;
+}
+
+.product-id {
+    visibility: hidden;
+}
+
+.navbar {
+    background-color: rgba(230, 231, 233, 0.877);
+}
+
+body {
+    background-color: white;
+}
+
+.btn-add-to-cart {
+    background-color: #2B81D7;
+    width: 50%;
+    position: relative;
+    margin-left: auto;
+}
+
+.card {
+    background-color: white;
+}
+
+.card-mouse-over {
+    background-color: #74A9DE;
+}
+
+/*
+.footer {
+     /* position: absolute; 
+     bottom: 0;
+     width: 100%;
+     height: 120px;
+    background-color:#E0BBE4;
+     background-color: #f8f9fa; 
+}*/
+
+.floating-div {
+
+    width: 15%;
+    height: 20%;
+    position: fixed;
+    top: 20%;
+    right: 0;
+    background-color: #67c4e9;
+}
+
+.floating-div label {
+    width: 100%;
+    margin: auto;
+    padding-top: 10%;
+}
